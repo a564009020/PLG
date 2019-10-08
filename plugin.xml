@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension-point id="com.phh.extpointphh" name="phh" schema="schema/com.phh.extpointphh.exsd"/>
+   <extension
+         point="com.phh.extpointphh">
+      <zkl></zkl>
+   </extension>
+
+</plugin>
